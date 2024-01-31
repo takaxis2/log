@@ -2,13 +2,14 @@
 
 ## 사례
 
-	1. vhosts.conf
+	1. .conf 파일
 	2. 리눅스 권한
 
 
-### vhosts.conf
+###  .conf 파일
 ```
 아파치 virtual host 설정 파일을 확인한다. 
 이때 설치된 아파치의 버전이나 사용자의 세팅에 따라 이름이나 경로가 다를 수 있다.
-
+(vhosts.conf 또는 httpd.conf)
+<Directory> 태그 안
 ```
