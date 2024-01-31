@@ -1,0 +1,1 @@
+[https://www.inflearn.com/course/lecture?courseSlug=네트워크-핵심이론-기초&unitId=126849&tab=activity-log](https://www.inflearn.com/course/lecture?courseSlug=네트워크-핵심이론-기초&unitId=126849&tab=activity-log)

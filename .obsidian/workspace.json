@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apache/아파치 virtual host시 확인 사항.md",
+                "file": "기타/기타.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apache/아파치 virtual host시 확인 사항.md",
+                "file": "기타/기타.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apache/아파치 virtual host시 확인 사항.md",
+                "file": "기타/기타.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apache/아파치 virtual host시 확인 사항.md"
+                "file": "기타/기타.md"
               }
             }
           }
@@ -161,13 +161,52 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "3425a314b35b0ed9",
   "lastOpenFiles": [
+    "Notion/프로젝트/인증 인가 구현.md",
+    "Notion/작업 목록/엄마한테 전화하기.md",
+    "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기.md",
+    "Notion/작업/New bug.md",
+    "Notion/작업/인증 인가 구현.md",
+    "기타/기타.md",
+    "Untitled.png",
+    "Untitled 2.png",
+    "hq2.jpg",
+    "hq2 2.jpg",
+    "Untitled 1.png",
     "apache/아파치 virtual host시 확인 사항.md",
-    "Welcome.md",
-    "apache"
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/배치 프로그램 튜닝.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/파티션 활용.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/DML 튜닝.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/소트 튜닝.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/고급 SQL 활용.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/고급 조인 기법.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/조인 기본 원리.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/인덱스 튜닝.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/인덱스 기본 원리.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/쿼리변환.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/옵티마이저.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/동시성 제어.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/트랜잭션.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/Lock.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 I-O 원리.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 Call과 네트워크 부하.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/SQL 파싱 부하.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 아키텍처.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용/조인 수행 원리.md",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
+    "Notion/작업",
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!",
+    "Notion/작업 목록/YouTube에서 '하버드 뇌 과학자가 알려주는 '뇌 통제 비법!'' 보기",
+    "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기",
+    "Notion/GO/Goroutine",
+    "Notion/GO/메소드와 인터페이스",
+    "Notion/GO/구조체, 슬라이스, 맵"
   ]
 }
