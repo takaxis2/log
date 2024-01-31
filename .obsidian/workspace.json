@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2408c5ada3e0b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3425a314b35b0ed9",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e5f629b6c96b56eb",
@@ -177,7 +164,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8b15e11e986c1688",
+  "active": "3425a314b35b0ed9",
   "lastOpenFiles": [
     "Welcome.md",
     "apache/아파치 virtual host시 확인 사항.md",
