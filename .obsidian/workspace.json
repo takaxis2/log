@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3d49cfde7f05a1fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3425a314b35b0ed9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타/기타.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e5f629b6c96b56eb",
         "type": "tabs",
         "children": [
@@ -31,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apache/아파치 virtual host시 확인 사항.md",
-                "mode": "preview",
+                "file": "spring boot/spring security.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/기타.md",
+                "file": "spring boot/spring security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/기타.md",
+                "file": "spring boot/spring security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/기타.md"
+                "file": "spring boot/spring security.md"
               }
             }
           }
@@ -165,20 +147,27 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3425a314b35b0ed9",
+  "active": "bd4337bf78ed793f",
   "lastOpenFiles": [
+    "디자인 패턴",
+    "spring boot/spring boot.md",
+    "spring boot/spring security.md",
+    "spring boot/junit.md",
+    "apache/아파치 virtual host시 확인 사항.md",
+    "기타/jwt 구조.md",
+    "기타/기타.md",
+    "img",
+    "Notion/nestjs.md",
     "Notion/프로젝트/인증 인가 구현.md",
     "Notion/작업 목록/엄마한테 전화하기.md",
     "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기.md",
     "Notion/작업/New bug.md",
     "Notion/작업/인증 인가 구현.md",
-    "기타/기타.md",
-    "Untitled.png",
-    "Untitled 2.png",
+    "img/Untitled.png",
+    "img/Untitled 2.png",
     "hq2.jpg",
     "hq2 2.jpg",
-    "Untitled 1.png",
-    "apache/아파치 virtual host시 확인 사항.md",
+    "img/Untitled 1.png",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/배치 프로그램 튜닝.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/파티션 활용.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/DML 튜닝.md",
@@ -192,12 +181,6 @@
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/옵티마이저.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/동시성 제어.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/트랜잭션.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/Lock.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 I-O 원리.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 Call과 네트워크 부하.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/SQL 파싱 부하.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/데이터베이스 아키텍처.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용/조인 수행 원리.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
@@ -205,8 +188,7 @@
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!",
     "Notion/작업 목록/YouTube에서 '하버드 뇌 과학자가 알려주는 '뇌 통제 비법!'' 보기",
     "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기",
-    "Notion/GO/Goroutine",
-    "Notion/GO/메소드와 인터페이스",
-    "Notion/GO/구조체, 슬라이스, 맵"
+    "GO/Goroutine",
+    "GO/메소드와 인터페이스"
   ]
 }
