@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb5f054f2f37a285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리눅스/방화벽.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/권한 부여.md",
+                "file": "리눅스/방화벽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/권한 부여.md",
+                "file": "리눅스/방화벽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/권한 부여.md"
+                "file": "리눅스/방화벽.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0cb7afc79414cbf8",
+  "active": "fb5f054f2f37a285",
   "lastOpenFiles": [
-    "apache/아파치 virtual host시 확인 사항.md",
     "리눅스/권한 부여.md",
+    "리눅스/방화벽.md",
+    "apache/아파치 virtual host시 확인 사항.md",
     "리눅스/passwd.md",
     "리눅스/systemctl.md",
     "spring boot/spring security.md",
@@ -219,7 +232,6 @@
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/인덱스 튜닝.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/인덱스 기본 원리.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/쿼리변환.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/옵티마이저.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
