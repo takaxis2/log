@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#firewall-cmdtag:#firewall-cmd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fb5f054f2f37a285",
+  "active": "0392f7068ee0df15",
   "lastOpenFiles": [
     "리눅스/권한 부여.md",
     "리눅스/방화벽.md",
