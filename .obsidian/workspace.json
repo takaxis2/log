@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "spring boot/spring security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "spring boot/spring security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/방화벽.md"
+                "file": "spring boot/spring security.md"
               }
             }
           }
