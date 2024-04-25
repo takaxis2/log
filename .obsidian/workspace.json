@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "GO/함수와 변수/기본 자료형.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "GO/함수와 변수/기본 자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "GO/함수와 변수/기본 자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/방화벽.md"
+                "file": "GO/함수와 변수/기본 자료형.md"
               }
             }
           }
@@ -198,10 +198,10 @@
   },
   "active": "fb5f054f2f37a285",
   "lastOpenFiles": [
+    "리눅스/방화벽.md",
     "무제 파일.md",
     "spring boot/spring security.md",
     "리눅스/권한 부여.md",
-    "리눅스/방화벽.md",
     "apache/아파치 virtual host시 확인 사항.md",
     "리눅스/passwd.md",
     "리눅스/systemctl.md",
