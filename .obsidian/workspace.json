@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e74beb22aad0576e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "architecture/MVC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fba34442379bff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "architecture/MVP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aac4b4ab5a8e608c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "architecture/MVVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b229623b4728a28d",
@@ -103,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기타/Blocking, Non-Blocking, Sync, Async.md",
+                "file": "architecture/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기타/Blocking, Non-Blocking, Sync, Async.md",
+                "file": "architecture/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기타/Blocking, Non-Blocking, Sync, Async.md"
+                "file": "architecture/MVVM.md"
               }
             }
           }
@@ -165,10 +202,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ad9ab15180a4ae56",
+  "active": "aac4b4ab5a8e608c",
   "lastOpenFiles": [
-    "img/Pasted image 20240503022003.png",
+    "architecture/Layered architecture 차이.md",
+    "architecture/MVVM.md",
+    "architecture/MVP.md",
+    "architecture/MVC.md",
     "기타/Blocking, Non-Blocking, Sync, Async.md",
+    "img/Pasted image 20240503022003.png",
     "기타/jwt 보관.md",
     "cs/데드락.md",
     "cs/동기화, 경쟁 조건, 임계 영역(synchronization, race condition, critical section).md",
@@ -198,9 +239,6 @@
     "Notion/nestjs.md",
     "Notion/프로젝트/인증 인가 구현.md",
     "Notion/작업 목록/엄마한테 전화하기.md",
-    "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기.md",
-    "Notion/작업/New bug.md",
-    "Notion/작업/인증 인가 구현.md",
     "hq2.jpg",
     "hq2 2.jpg",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
