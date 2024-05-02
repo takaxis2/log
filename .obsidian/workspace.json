@@ -13,8 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.html.md",
+                "file": "기타/jwt 보관.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1ed54991643f793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/blocking, non-blocking, sync, async.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b229623b4728a28d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d9d8cb3efb69a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "기타/blocking, non-blocking, sync, async.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.html.md",
+                "file": "기타/blocking, non-blocking, sync, async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.html.md",
+                "file": "기타/blocking, non-blocking, sync, async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.html.md"
+                "file": "기타/blocking, non-blocking, sync, async.md"
               }
             }
           }
@@ -147,8 +178,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ad9ab15180a4ae56",
+  "active": "92d9d8cb3efb69a5",
   "lastOpenFiles": [
+    "cs/데드락.md",
+    "cs/동기화, 경쟁 조건, 임계 영역(synchronization, race condition, critical section).md",
+    "cs/스핀락, 뮤텍스, 세마포(spinlock, mutex, semaphore).md",
+    "cs/cs.md",
+    "cs/web의 전반적인 흐름.md",
+    "img/Untitled 2.png",
+    "img/Untitled 1.png",
+    "img/Untitled.png",
+    "기타/blocking, non-blocking, sync, async.md",
+    "기타/jwt 구조.md",
+    "기타/jwt 보관.md",
+    "기타/기타.md",
     "index.html.md",
     "무제 폴더",
     "architecture",
@@ -163,8 +206,6 @@
     "디자인 패턴",
     "spring boot/spring boot.md",
     "spring boot/junit.md",
-    "기타/jwt 구조.md",
-    "기타/기타.md",
     "img",
     "Notion/nestjs.md",
     "Notion/프로젝트/인증 인가 구현.md",
@@ -172,18 +213,9 @@
     "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기.md",
     "Notion/작업/New bug.md",
     "Notion/작업/인증 인가 구현.md",
-    "img/Untitled.png",
-    "img/Untitled 2.png",
     "hq2.jpg",
     "hq2 2.jpg",
-    "img/Untitled 1.png",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/배치 프로그램 튜닝.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/파티션 활용.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/DML 튜닝.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/소트 튜닝.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/고급 SQL 활용.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/고급 조인 기법.md",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용/조인 기본 원리.md",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
