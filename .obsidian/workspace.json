@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "97f461e789b71993",
+        "id": "ea1b912e8680c258",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e7a28a05ad894c",
+            "id": "ad9ab15180a4ae56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.html.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "index.html.md"
               }
             }
           }
@@ -141,12 +147,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "ad9ab15180a4ae56",
   "lastOpenFiles": [
+    "index.html.md",
+    "무제 폴더",
     "architecture",
     "GO/함수와 변수/기본 자료형.md",
     "리눅스/방화벽.md",
-    "무제 파일.md",
     "spring boot/spring security.md",
     "리눅스/권한 부여.md",
     "apache/아파치 virtual host시 확인 사항.md",
@@ -181,8 +188,6 @@
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
     "Notion/작업",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!",
-    "Notion/작업 목록/YouTube에서 '하버드 뇌 과학자가 알려주는 '뇌 통제 비법!'' 보기",
-    "Notion/작업 목록/YouTube에서 '국수를 시키면 치킨을 주는 가성비맛집' 보기"
+    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!"
   ]
 }
