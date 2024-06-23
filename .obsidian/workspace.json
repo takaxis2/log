@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "포트 확인 법.md",
+                "file": "리눅스/방화벽.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,24 +69,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "dc3a8aed2c511147",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b519d3b002e47fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "포트 확인 법.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "포트 확인 법.md",
+                "file": "리눅스/방화벽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "포트 확인 법.md",
+                "file": "리눅스/방화벽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "포트 확인 법.md"
+                "file": "리눅스/방화벽.md"
               }
             }
           }
@@ -214,10 +196,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b519d3b002e47fe7",
+  "active": "929f77fc07f49cdd",
   "lastOpenFiles": [
-    "리눅스/systemctl.md",
     "포트 확인 법.md",
+    "리눅스/systemctl.md",
     "architecture/MVVM.md",
     "architecture/Layered architecture 차이.md",
     "architecture/MVP.md",
