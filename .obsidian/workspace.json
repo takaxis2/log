@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/MVVM.md",
+                "file": "리눅스/systemctl.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architecture/MVVM.md",
+                "file": "리눅스/systemctl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "architecture/MVVM.md",
+                "file": "리눅스/systemctl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "architecture/MVVM.md"
+                "file": "리눅스/systemctl.md"
               }
             }
           }
@@ -204,8 +204,8 @@
   },
   "active": "aac4b4ab5a8e608c",
   "lastOpenFiles": [
-    "architecture/Layered architecture 차이.md",
     "architecture/MVVM.md",
+    "architecture/Layered architecture 차이.md",
     "architecture/MVP.md",
     "architecture/MVC.md",
     "기타/Blocking, Non-Blocking, Sync, Async.md",
