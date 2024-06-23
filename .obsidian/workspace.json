@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "dc3a8aed2c511147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b519d3b002e47fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "포트 확인 법.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +214,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "929f77fc07f49cdd",
+  "active": "b519d3b002e47fe7",
   "lastOpenFiles": [
     "리눅스/systemctl.md",
     "포트 확인 법.md",
