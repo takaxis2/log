@@ -54,27 +54,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "b229623b4728a28d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "92d9d8cb3efb69a5",
+            "id": "929f77fc07f49cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Blocking, Non-Blocking, Sync, Async.md",
-                "mode": "preview",
+                "file": "포트 확인 법.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/systemctl.md",
+                "file": "포트 확인 법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/systemctl.md",
+                "file": "포트 확인 법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/systemctl.md"
+                "file": "포트 확인 법.md"
               }
             }
           }
@@ -202,8 +196,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "aac4b4ab5a8e608c",
+  "active": "929f77fc07f49cdd",
   "lastOpenFiles": [
+    "리눅스/systemctl.md",
+    "포트 확인 법.md",
     "architecture/MVVM.md",
     "architecture/Layered architecture 차이.md",
     "architecture/MVP.md",
@@ -230,7 +226,6 @@
     "리눅스/권한 부여.md",
     "apache/아파치 virtual host시 확인 사항.md",
     "리눅스/passwd.md",
-    "리눅스/systemctl.md",
     "리눅스",
     "디자인 패턴",
     "spring boot/spring boot.md",
@@ -238,7 +233,6 @@
     "img",
     "Notion/nestjs.md",
     "Notion/프로젝트/인증 인가 구현.md",
-    "Notion/작업 목록/엄마한테 전화하기.md",
     "hq2.jpg",
     "hq2 2.jpg",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
