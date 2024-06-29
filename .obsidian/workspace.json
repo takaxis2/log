@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daddfe49cc825c81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "929f77fc07f49cdd",
+  "active": "daddfe49cc825c81",
   "lastOpenFiles": [
     "포트 확인 법.md",
     "리눅스/systemctl.md",
