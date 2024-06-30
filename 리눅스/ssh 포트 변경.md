@@ -21,5 +21,6 @@ semanage port -l | grep ssh_port_t //적용 되었는지 확인
 방화벽 설정
 ``` sh 
 firewall-cmd --permanent --zone=public --addport=1022/tcp //포트 추가
-firewall-cmd --zone=public --list
+firewall-cmd --reload //방화벽 재시작
+firewall-cmd --zone=public --list-all //방화벽 list 확인
 ```
