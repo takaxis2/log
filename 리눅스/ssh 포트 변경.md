@@ -24,3 +24,9 @@ firewall-cmd --permanent --zone=public --addport=1022/tcp //포트 추가
 firewall-cmd --reload //방화벽 재시작
 firewall-cmd --zone=public --list-all //방화벽 list 확인
 ```
+
+SFTP는 SSH를 기반으로 동작하므로, SSH 포트를 변경하면 SFTP 포트도 변경된다. 하지만 SFTP에 대해 별도로 포트를 설정할 수도 있다
+
+``` sh
+sftp -oPort=2223 sftpuser@your_server_ip //ssh처럼 연결하는법
+```
