@@ -76,9 +76,31 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "e35b052c53ee44ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정품인증 표시 제거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a55b62cc382d0707",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -144,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "정품인증 표시 제거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/방화벽.md",
+                "file": "정품인증 표시 제거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/방화벽.md"
+                "file": "정품인증 표시 제거.md"
               }
             }
           }
@@ -206,8 +228,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "daddfe49cc825c81",
+  "active": "a55b62cc382d0707",
   "lastOpenFiles": [
+    "정품인증 표시 제거.md",
+    "윈도우",
     "포트 확인 법.md",
     "리눅스/systemctl.md",
     "architecture/MVVM.md",
@@ -228,7 +252,6 @@
     "기타/jwt 구조.md",
     "기타/기타.md",
     "index.html.md",
-    "무제 폴더",
     "architecture",
     "GO/함수와 변수/기본 자료형.md",
     "리눅스/방화벽.md",
@@ -242,7 +265,6 @@
     "spring boot/junit.md",
     "img",
     "Notion/nestjs.md",
-    "Notion/프로젝트/인증 인가 구현.md",
     "hq2.jpg",
     "hq2 2.jpg",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
