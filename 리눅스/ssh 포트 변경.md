@@ -10,4 +10,4 @@ netstat -nlp | grep ssh
 systemctl restart sshd
 ```
 
-아마 여기서 재시작이 되지 않는다면 SEL
+아마 여기서 재시작이 되지 않는다면 SELinux가 문제일 가능성이 높
