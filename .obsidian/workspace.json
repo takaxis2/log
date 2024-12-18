@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "015be1000b0f630b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Fixed window algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/Token bucket algorithm.md",
+                "file": "algorithm/Fixed window algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/Token bucket algorithm.md",
+                "file": "algorithm/Fixed window algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/Token bucket algorithm.md"
+                "file": "algorithm/Fixed window algorithm.md"
               }
             }
           }
@@ -242,11 +254,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "97bd4e34f8abd73a",
+  "active": "bd4337bf78ed793f",
   "lastOpenFiles": [
+    "algorithm/Token bucket algorithm.md",
+    "algorithm/Fixed window algorithm.md",
     "algorithm/Leacky bucket algorithm.md",
     "algorithm/algorithm.md",
-    "algorithm/Token bucket algorithm.md",
     "리눅스/ssh 포트 변경.md",
     "기타/정품인증 표시 제거.md",
     "리눅스/포트 확인 법.md",
@@ -275,7 +288,6 @@
     "GO/함수와 변수/기본 자료형.md",
     "spring boot/spring security.md",
     "리눅스/권한 부여.md",
-    "apache/아파치 virtual host시 확인 사항.md",
     "리눅스",
     "디자인 패턴",
     "img",
