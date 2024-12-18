@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/MVC.md",
+                "file": "architecture/MVVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architecture/MVC.md",
+                "file": "architecture/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "architecture/MVC.md",
+                "file": "architecture/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "architecture/MVC.md"
+                "file": "architecture/MVVM.md"
               }
             }
           }
@@ -268,8 +268,9 @@
   },
   "active": "4334986e041361d1",
   "lastOpenFiles": [
-    "architecture/Layered architecture 차이.md",
+    "architecture/MVP.md",
     "architecture/MVC.md",
+    "architecture/Layered architecture 차이.md",
     "algorithm/Sliding window algorithm.md",
     "algorithm/Fixed window algorithm.md",
     "algorithm/Token bucket algorithm.md",
@@ -282,7 +283,6 @@
     "윈도우",
     "리눅스/systemctl.md",
     "architecture/MVVM.md",
-    "architecture/MVP.md",
     "기타/Blocking, Non-Blocking, Sync, Async.md",
     "img/Pasted image 20240503022003.png",
     "기타/jwt 보관.md",
