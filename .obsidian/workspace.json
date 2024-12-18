@@ -88,9 +88,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77ba5d3e4f63c015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Token bucket algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97bd4e34f8abd73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Token bucket algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/ssh 포트 변경.md",
+                "file": "algorithm/Token bucket algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/ssh 포트 변경.md",
+                "file": "algorithm/Token bucket algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/ssh 포트 변경.md"
+                "file": "algorithm/Token bucket algorithm.md"
               }
             }
           }
@@ -218,12 +242,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e35b052c53ee44ad",
+  "active": "97bd4e34f8abd73a",
   "lastOpenFiles": [
+    "algorithm/Leacky bucket algorithm.md",
+    "algorithm/algorithm.md",
+    "algorithm/Token bucket algorithm.md",
+    "리눅스/ssh 포트 변경.md",
     "기타/정품인증 표시 제거.md",
     "리눅스/포트 확인 법.md",
     "리눅스/방화벽.md",
-    "리눅스/ssh 포트 변경.md",
     "윈도우",
     "리눅스/systemctl.md",
     "architecture/MVVM.md",
@@ -249,11 +276,8 @@
     "spring boot/spring security.md",
     "리눅스/권한 부여.md",
     "apache/아파치 virtual host시 확인 사항.md",
-    "리눅스/passwd.md",
     "리눅스",
     "디자인 패턴",
-    "spring boot/spring boot.md",
-    "spring boot/junit.md",
     "img",
     "hq2.jpg",
     "hq2 2.jpg",
