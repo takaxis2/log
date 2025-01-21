@@ -8,171 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad9ab15180a4ae56",
+            "id": "7881a5b841eff4f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타/Blocking, Non-Blocking, Sync, Async.md",
+                "file": "ai/Supervised vs Unsupervised.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blocking, Non-Blocking, Sync, Async"
+              "title": "Supervised vs Unsupervised"
             }
           },
           {
-            "id": "e74beb22aad0576e",
+            "id": "5d0dd4af4d349e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/MVC.md",
+                "file": "ai/Supervised vs Unsupervised.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVC"
-            }
-          },
-          {
-            "id": "6fba34442379bff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "architecture/MVP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MVP"
-            }
-          },
-          {
-            "id": "aac4b4ab5a8e608c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "929f77fc07f49cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스/방화벽.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "방화벽"
-            }
-          },
-          {
-            "id": "daddfe49cc825c81",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.3"
-            }
-          },
-          {
-            "id": "e35b052c53ee44ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스/ssh 포트 변경.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ssh 포트 변경"
-            }
-          },
-          {
-            "id": "77ba5d3e4f63c015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Token bucket algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Token bucket algorithm"
-            }
-          },
-          {
-            "id": "97bd4e34f8abd73a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Token bucket algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Token bucket algorithm"
-            }
-          },
-          {
-            "id": "015be1000b0f630b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Fixed window algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fixed window algorithm"
-            }
-          },
-          {
-            "id": "4334986e041361d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "architecture/MVVM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MVVM"
-            }
-          },
-          {
-            "id": "1d0f85f64a48e875",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Supervised vs Unsupervised"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ai/Supervised vs Unsupervised.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "Supervised vs Unsupervised의 백링크"
             }
           },
           {
@@ -262,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ai/Supervised vs Unsupervised.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "Supervised vs Unsupervised의 나가는 링크"
             }
           },
           {
@@ -287,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "ai/Supervised vs Unsupervised.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Supervised vs Unsupervised 개요"
             }
           }
         ]
@@ -310,8 +178,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1d0f85f64a48e875",
+  "active": "5d0dd4af4d349e99",
   "lastOpenFiles": [
+    "ai/Regression vs Classification.md",
+    "ai/Supervised vs Unsupervised.md",
+    "ai",
     "architecture/MVP.md",
     "architecture/MVC.md",
     "architecture/Layered architecture 차이.md",
@@ -342,8 +213,6 @@
     "기타/기타.md",
     "index.html.md",
     "architecture",
-    "GO/함수와 변수/기본 자료형.md",
-    "spring boot/spring security.md",
     "리눅스",
     "디자인 패턴",
     "img",
@@ -352,7 +221,6 @@
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 고급 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/SQL 기본 및 활용",
     "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!/데이터 모델링의 이해",
-    "Notion/작업",
-    "cs/sql/DA, SQL, DB보안 등 실무자를 위한 위한 DB기술 바이블!"
+    "Notion/작업"
   ]
 }
