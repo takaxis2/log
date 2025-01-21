@@ -16,7 +16,9 @@
                 "file": "기타/Blocking, Non-Blocking, Sync, Async.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Blocking, Non-Blocking, Sync, Async"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "architecture/MVC.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MVC"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "architecture/MVP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MVP"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "리눅스/systemctl.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "systemctl"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "리눅스/방화벽.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "방화벽"
             }
           },
           {
@@ -74,7 +84,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.3"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.3"
             }
           },
           {
@@ -86,7 +98,9 @@
                 "file": "리눅스/ssh 포트 변경.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ssh 포트 변경"
             }
           },
           {
@@ -98,7 +112,9 @@
                 "file": "algorithm/Token bucket algorithm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Token bucket algorithm"
             }
           },
           {
@@ -110,7 +126,9 @@
                 "file": "algorithm/Token bucket algorithm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Token bucket algorithm"
             }
           },
           {
@@ -122,7 +140,9 @@
                 "file": "algorithm/Fixed window algorithm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Fixed window algorithm"
             }
           },
           {
@@ -134,11 +154,25 @@
                 "file": "architecture/MVVM.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "MVVM"
+            }
+          },
+          {
+            "id": "1d0f85f64a48e875",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -158,7 +192,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -173,7 +209,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -181,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -204,7 +244,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "architecture/MVVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +251,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -221,10 +262,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "architecture/MVVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -235,7 +277,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -243,9 +287,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "architecture/MVVM.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ]
@@ -266,7 +310,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4334986e041361d1",
+  "active": "1d0f85f64a48e875",
   "lastOpenFiles": [
     "architecture/MVP.md",
     "architecture/MVC.md",
