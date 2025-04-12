@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2025-1/유닉스및 리눅스시스템/1강.md",
+                "file": "대학강의/2025-1/유닉스및 리눅스시스템/2 강.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1강"
+              "title": "2 강"
             }
           }
         ]
@@ -201,7 +201,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7ecff609b00196d1",
+  "active": "08102f6a7e223792",
   "lastOpenFiles": [
     "대학강의/2025-1/유닉스및 리눅스시스템/1강.md",
     "대학강의/2025-1/유닉스및 리눅스시스템/2 강.md",
