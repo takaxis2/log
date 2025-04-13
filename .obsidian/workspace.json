@@ -6,7 +6,7 @@
       {
         "id": "ea1b912e8680c258",
         "type": "tabs",
-        "dimension": 64.78426395939087,
+        "dimension": 60.723350253807105,
         "children": [
           {
             "id": "fbc4270958c555f2",
@@ -84,7 +84,7 @@
       {
         "id": "2fff988594335dbc",
         "type": "tabs",
-        "dimension": 35.21573604060914,
+        "dimension": 39.276649746192895,
         "children": [
           {
             "id": "08102f6a7e223792",
@@ -92,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2025-1/유닉스및 리눅스시스템/5강.md",
+                "file": "대학강의/2025-1/유닉스및 리눅스시스템/6강.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5강"
+              "title": "6강"
             }
           }
         ]
