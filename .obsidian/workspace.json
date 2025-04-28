@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2025-1/AI 첫걸음/6강.md",
+                "file": "대학강의/2025-1/AI 첫걸음/7강.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6강"
+              "title": "7강"
             }
           }
         ],
@@ -251,10 +251,10 @@
   },
   "active": "bec064f1443f2917",
   "lastOpenFiles": [
-    "기타/Pasted image 20250429010629.png",
-    "대학강의/2025-1/AI 첫걸음/7강.md",
     "대학강의/2025-1/AI 첫걸음/8강.md",
+    "대학강의/2025-1/AI 첫걸음/7강.md",
     "대학강의/2025-1/AI 첫걸음/6강.md",
+    "기타/Pasted image 20250429010629.png",
     "대학강의/2025-1/AI 첫걸음/5강.md",
     "대학강의/2025-1/AI 첫걸음/4강.md",
     "대학강의/2025-1/AI 첫걸음/3강.md",
@@ -295,7 +295,6 @@
     "ai",
     "img/Pasted image 20240503022003.png",
     "img/Untitled 2.png",
-    "img/Untitled 1.png",
-    "img/Untitled.png"
+    "img/Untitled 1.png"
   ]
 }
