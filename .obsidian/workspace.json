@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9cbd3959e6f5e0a1",
+        "id": "d100b1e9dc3df3d5",
         "type": "tabs",
         "children": [
           {
-            "id": "169b801f0ee708d4",
+            "id": "bf9f62f200ffa813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학강의/2025-1/AI 첫걸음/2강.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2강"
-            }
-          },
-          {
-            "id": "2a9d00f8f5cb4816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학강의/2025-1/AI 첫걸음/3강.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3강"
-            }
-          },
-          {
-            "id": "6102faddfa200497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학강의/2025-1/AI 첫걸음/4강.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4강"
-            }
-          },
-          {
-            "id": "1e80b79b471e8c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "대학강의/2025-1/유닉스및 리눅스시스템/7강.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7강"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,22 +160,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "bf9f62f200ffa813",
   "lastOpenFiles": [
+    "대학강의/2025-1/유닉스및 리눅스시스템/7강.md",
+    "대학강의/2025-1/유닉스및 리눅스시스템/6강.md",
     "기타/Pasted image 20250429020609.png",
     "기타/Pasted image 20250429020545.png",
     "기타/Pasted image 20250429020432.png",
     "기타/Pasted image 20250429020259.png",
     "기타/Pasted image 20250429015557.png",
     "Pasted image 20250429015341.md",
-    "대학강의/2025-1/유닉스및 리눅스시스템/7강.md",
     "기타/Pasted image 20250429015341.png",
     "기타/Pasted image 20250429015100.png",
     "Pasted image 20250429015435.png",
     "기타/Pasted image 20250429014849.png",
     "기타/Pasted image 20250429014157.png",
-    "기타/Pasted image 20250429013656.png",
-    "대학강의/2025-1/유닉스및 리눅스시스템/6강.md",
     "대학강의/2025-1/AI 첫걸음/8강.md",
     "대학강의/2025-1/AI 첫걸음/7강.md",
     "대학강의/2025-1/AI 첫걸음/6강.md",
