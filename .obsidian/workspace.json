@@ -11,14 +11,12 @@
             "id": "bf9f62f200ffa813",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "대학강의/2025-1/데이터과학의 세계/10강.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250507022320.png"
               },
-              "icon": "lucide-file",
-              "title": "10강"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250507022320"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e92d8e1a173f1cc3",
@@ -168,6 +165,7 @@
   "active": "bf9f62f200ffa813",
   "lastOpenFiles": [
     "대학강의/2025-1/데이터과학의 세계/10강.md",
+    "Pasted image 20250507022320.png",
     "대학강의/2025-1/유닉스및 리눅스시스템/7강.md",
     "대학강의/2025-1/유닉스및 리눅스시스템/6강.md",
     "기타/Pasted image 20250429020609.png",
@@ -180,7 +178,6 @@
     "기타/Pasted image 20250429015100.png",
     "Pasted image 20250429015435.png",
     "기타/Pasted image 20250429014849.png",
-    "기타/Pasted image 20250429014157.png",
     "대학강의/2025-1/AI 첫걸음/8강.md",
     "대학강의/2025-1/AI 첫걸음/7강.md",
     "대학강의/2025-1/AI 첫걸음/6강.md",
@@ -202,7 +199,6 @@
     "기타/jwt 보관.md",
     "기타/blocking, non-blocking, sync, async.md",
     "대학강의/2025-1/유닉스및 리눅스시스템/5강.md",
-    "대학강의/2025-1/유닉스및 리눅스시스템/4강.md",
     "대학강의/2025-1/유닉스및 리눅스시스템/3강",
     "대학강의/2025-1/클라우드 컴퓨팅 기초",
     "대학강의/2025-1/데이터베이스 구축",
