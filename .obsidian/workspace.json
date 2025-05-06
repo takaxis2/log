@@ -11,12 +11,14 @@
             "id": "bf9f62f200ffa813",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250507022320.png"
+                "file": "대학강의/2025-1/데이터과학의 세계/10강.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250507022320"
+              "icon": "lucide-file",
+              "title": "10강"
             }
           }
         ]
@@ -164,8 +166,8 @@
   },
   "active": "bf9f62f200ffa813",
   "lastOpenFiles": [
+    "기타/Pasted image 20250507022320.png",
     "대학강의/2025-1/데이터과학의 세계/10강.md",
-    "Pasted image 20250507022320.png",
     "대학강의/2025-1/유닉스및 리눅스시스템/7강.md",
     "대학강의/2025-1/유닉스및 리눅스시스템/6강.md",
     "기타/Pasted image 20250429020609.png",
