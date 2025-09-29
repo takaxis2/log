@@ -11,10 +11,12 @@
             "id": "a268991769e9e0bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ]
@@ -151,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,7 +163,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "a268991769e9e0bd",
   "lastOpenFiles": [
     "기타/정품인증 표시 제거.md",
     "기타",
