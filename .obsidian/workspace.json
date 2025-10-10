@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "5강. 심층 신경망"
             }
+          },
+          {
+            "id": "59338f3de43f3b4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a268991769e9e0bd",
+  "active": "59338f3de43f3b4b",
   "lastOpenFiles": [
     "대학강의/2025-가을/AI 딥러닝 기초/4강. 경사 하강법, 퍼셉트론, 그리고 다층 신경망 분석.md",
     "대학강의/2025-가을/AI 딥러닝 기초/5강. 심층 신경망.md",
