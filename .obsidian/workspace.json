@@ -25,40 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "architecture/MVVM.md",
+                "file": "대학강의/2025-가을/컴퓨터 네트워크 기초/1강.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVVM"
-            }
-          },
-          {
-            "id": "e8cc3f3164e3ba2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai/시그모이드 함수 미분 과정.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "시그모이드 함수 미분 과정"
-            }
-          },
-          {
-            "id": "12d8971801c1b6a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ai/역전파 알고리즘; 오차함수(E)를 가중치 Wjk에 대해 미분하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "역전파 알고리즘; 오차함수(E)를 가중치 Wjk에 대해 미분하기"
+              "title": "1강"
             }
           }
         ],
@@ -208,6 +180,7 @@
   },
   "active": "a268991769e9e0bd",
   "lastOpenFiles": [
+    "architecture/MVVM.md",
     "architecture/MVP.md",
     "architecture/MVC.md",
     "대학강의/2025-가을/AI 딥러닝 기초/5강. 심층 신경망.md",
@@ -239,7 +212,6 @@
     "이미지/Pasted image 20250507023157.png",
     "대학강의/2025-봄/유닉스및 리눅스시스템/12강.md",
     "대학강의/2025-가을",
-    "대학강의/2025-봄/유닉스및 리눅스시스템/10강.md",
     "이미지/Pasted image 20250507024423.png",
     "이미지/Pasted image 20250507024055.png",
     "이미지/Pasted image 20250507023449.png",
