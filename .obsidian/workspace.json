@@ -35,8 +35,7 @@
               "title": "epoch당 가중치 업데이트 수"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,10 +179,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "eb73c8b6090c5f22",
   "lastOpenFiles": [
-    "ai/오차 함수와 가중치 업데이트.md",
     "ai/epoch당 가중치 업데이트 수.md",
+    "ai/오차 함수와 가중치 업데이트.md",
     "대학강의/2025-가을/운영체제/7강. CPU 스케줄링.md",
     "대학강의/2025-가을/운영체제/1강.md",
     "대학강의/2025-가을/운영체제/2강.md",
