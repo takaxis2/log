@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc9b4228e3c437b",
+        "id": "d80e85be3b454f60",
         "type": "tabs",
         "children": [
           {
-            "id": "ccec43963361c607",
+            "id": "6a95d5534daa8cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs/SAGA 패턴.md",
+                "file": "대학강의/2025-가을/운영체제/7강. CPU 스케줄링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAGA 패턴"
+              "title": "7강. CPU 스케줄링"
+            }
+          },
+          {
+            "id": "2445c1852740883a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학강의/2025-봄/데이터과학의 세계/10강.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10강"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -165,53 +180,52 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "2445c1852740883a",
   "lastOpenFiles": [
-    "대학강의/2025-가을/운영체제/4강. 운영체제 구조.md",
-    "2PC.md",
-    "cs/SAGA 패턴.md",
-    "cs/2PC(2 Phase Consistency).md",
-    "이미지/Untitled 2.png",
-    "cs/스풀링, 버퍼링.md",
-    "대학강의/2025-가을/운영체제/5강. 프로세스 관리.md",
-    "대학강의/2025-가을/운영체제/6강.  쓰레드.md",
-    "대학강의/2025-가을/운영체제/7강. CPU 스케줄링.md",
-    "프로그래밍",
-    "이미지/Untitled.png",
-    "ai/오차 함수와 가중치 업데이트.md",
+    "결정.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "대학강의/2025-가을/AI 딥러닝 기초/9강. AI 딥러닝 모델 성능 검증.md",
+    "대학강의/2025-가을/AI 딥러닝 기초/8강. 다중 분류 및 심층 신경망.md",
     "대학강의/2025-가을/운영체제/8강. 프로세스 동기화.md",
-    "ai/epoch당 가중치 업데이트 수.md",
-    "대학강의/2025-가을/운영체제/1강.md",
-    "대학강의/2025-가을/운영체제/2강.md",
-    "대학강의/2025-가을/운영체제/3강. 컴퓨터 시스템 구조.md",
-    "대학강의/2025-가을/클라우드 서비스 활용/7강. 분산 메시지 스트리밍 플랫폼, 카프카(Kafka).md",
-    "대학강의/2025-가을/클라우드 서비스 활용/1 ~ 6강 마이크로서비스 아키텍처(MSA)와 이벤트 기반 설계.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/7강. 다중 분류 문제.md",
-    "대학강의/2025-가을/클라우드 서비스 활용",
-    "ai/은닉층의 개수.md",
-    "ai/신경망 학습에서 오차 역전파가 일어나는 시점.md",
-    "conflict-files-obsidian-git.md",
-    "cs/초기 프로세스와 문맥 전환.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/2강. 회귀 분석 개념.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/3강. 회귀 분석.md",
-    "ai/선형회귀 독립변수와 종속변수의 관계.md",
-    "대학강의/2025-1/유닉스및 리눅스시스템/12강.md",
+    "프로그래밍/GO/함수와 변수/함수와 여러가지 리턴 방법.md",
+    "프로그래밍/GO/함수와 변수/함수와 변수.md",
+    "프로그래밍/GO/함수와 변수/함수와 매개변수.md",
+    "프로그래밍/GO/함수와 변수/여러가지 변수 선언 방법.md",
+    "프로그래밍/GO/함수와 변수/상수 선언.md",
+    "프로그래밍/GO/함수와 변수/기본 자료형.md",
+    "프로그래밍/GO/함수와 변수/zero values.md",
+    "프로그래밍/GO/메소드와 인터페이스/인터페이스 사용하기.md",
+    "프로그래밍/GO/메소드와 인터페이스/메소드와 인터페이스.md",
+    "프로그래밍/GO/메소드와 인터페이스/메소드 선언하기.md",
+    "프로그래밍/GO/메소드와 인터페이스/리시버 타입.md",
+    "프로그래밍/GO/메소드와 인터페이스/empty 인터페이스.md",
+    "프로그래밍/GO/반복문과 제어문/반복문과 제어문.md",
+    "프로그래밍/GO/반복문과 제어문/switch문 사용하기.md",
+    "프로그래밍/GO/반복문과 제어문/if문 사용하기.md",
+    "프로그래밍/GO/반복문과 제어문/for문 사용하기.md",
+    "프로그래밍/GO/Goroutine/채널.md",
+    "프로그래밍/GO/Goroutine/셀렉트.md",
+    "프로그래밍/GO/Goroutine/버퍼 채널.md",
+    "프로그래밍/GO/Goroutine/고루틴.md",
+    "프로그래밍/GO/Goroutine/Range와 Close.md",
+    "프로그래밍/GO/함수와 변수",
+    "프로그래밍/GO/메소드와 인터페이스",
+    "프로그래밍/GO/반복문과 제어문",
+    "프로그래밍/GO/Goroutine",
+    "프로그래밍/GO/구조체, 슬라이스, 맵",
+    "프로그래밍/spring boot",
+    "프로그래밍/net",
+    "프로그래밍/GO",
+    "img/Pasted image 20251014102711.png",
+    "img/Pasted image 20251014102556.png",
+    "이미지/Pasted image 20250507023157.png",
     "이미지/Pasted image 20250507024423.png",
     "이미지/Pasted image 20250507024055.png",
     "이미지/Pasted image 20250507023449.png",
-    "이미지/Pasted image 20250507023157.png",
     "이미지/Pasted image 20250507022320.png",
     "이미지/Pasted image 20250429020609.png",
     "이미지/Pasted image 20250429020545.png",
-    "이미지/Pasted image 20250429020432.png",
-    "이미지",
-    "리눅스/포트 확인 법.md",
-    "리눅스",
-    "대학강의/2025-봄/유닉스및 리눅스시스템",
-    "대학강의/2025-봄/데이터베이스 구축",
-    "대학강의/2025-봄/데이터과학의 세계",
-    "대학강의/2025-봄/AI 첫걸음",
-    "대학강의/2025-봄",
-    "대학강의/2025-가을/컴퓨터 네트워크 기초"
+    "이미지/Pasted image 20250429020432.png"
   ]
 }
