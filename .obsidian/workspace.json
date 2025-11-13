@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "8강. 프로세스 동기화"
             }
+          },
+          {
+            "id": "7023d90768558cd5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ccec43963361c607",
+  "active": "7023d90768558cd5",
   "lastOpenFiles": [
     "cs/SAGA 패턴.md",
     "대학강의/2025-봄/데이터과학의 세계/9강.md",
