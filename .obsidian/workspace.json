@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "12. 가상메모리"
             }
+          },
+          {
+            "id": "c7dec0f28400df28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4337bf78ed793f",
+  "active": "c7dec0f28400df28",
   "lastOpenFiles": [
     "대학강의/2025-가을/운영체제/11. 보조 기억 장치와 디스크 스케줄링.md",
     "대학강의/2025-가을/운영체제/12. 가상메모리.md",
