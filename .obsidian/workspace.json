@@ -4,81 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "f4bbd81656f5f9cb",
+        "id": "fbc9b4228e3c437b",
         "type": "tabs",
         "children": [
           {
-            "id": "efabcf61f5179236",
+            "id": "ccec43963361c607",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2026-봄/인공지능 이해/2. 탐색과 최적화 1.md",
+                "file": "대학강의/2025-가을/운영체제/8강. 프로세스 동기화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 탐색과 최적화 1"
+              "title": "8강. 프로세스 동기화"
             }
           },
           {
-            "id": "1016e89f6756f4d5",
+            "id": "7023d90768558cd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2026-봄/인공지능 이해/3. 탐색과 최적화 2.md",
+                "file": "대학강의/2025-가을/운영체제/10강. 주기억장치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 탐색과 최적화 2"
+              "title": "10강. 주기억장치"
             }
           },
           {
-            "id": "a2a5e8ed1cf7eed0",
+            "id": "615405aa94cd4a44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2026-봄/인공지능 이해/4. 지식표현과 추론 1.md",
+                "file": "대학강의/2025-가을/운영체제/11. 보조 기억 장치와 디스크 스케줄링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 지식표현과 추론 1"
+              "title": "11. 보조 기억 장치와 디스크 스케줄링"
             }
           },
           {
-            "id": "4e43b64e6a1f7847",
+            "id": "5aad506ae68c8f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "대학강의/2026-봄/인공지능 이해/4. 지식표현과 추론 1.md",
+                "file": "대학강의/2025-가을/AI 딥러닝 기초/6강.  딥러닝 모델 설계 및 구현.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 지식표현과 추론 1"
+              "title": "6강.  딥러닝 모델 설계 및 구현"
             }
           },
           {
-            "id": "e15b134a7b0349fb",
+            "id": "c7dec0f28400df28",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "d5b45951f940d116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. 기계학습 1.md",
+                "file": "cs/세그멘테이션, 페이징, 혼용 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. 기계학습 1"
+              "title": "세그멘테이션, 페이징, 혼용 기법"
+            }
+          },
+          {
+            "id": "b7e294d78004d96f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "대학강의/2025-가을/운영체제/13.  파일 시스템, 병렬, 다중 및 분산 처리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.  파일 시스템, 병렬, 다중 및 분산 처리"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인터럽트",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +144,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -219,60 +245,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e15b134a7b0349fb",
+  "active": "b7e294d78004d96f",
   "lastOpenFiles": [
-    "대학강의/2026-봄/인공지능 이해/4. 지식표현과 추론 1.md",
-    "6. 기계학습 1.md",
     "대학강의/2026-봄/인공지능 이해/5. 지식표현과 추론 2.md",
+    "대학강의/2026-봄/인공지능 이해/4. 지식표현과 추론 1.md",
     "대학강의/2026-봄/인공지능 이해/3. 탐색과 최적화 2.md",
-    "Untitled",
+    "6. 기계학습 1.md",
     "대학강의/2026-봄/인공지능 이해/2. 탐색과 최적화 1.md",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해_01.pdf",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해-04.pdf",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해-03.pdf",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해-02.pdf",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해_06주(06강).pdf",
-    "대학강의/2026-봄/인공지능 이해/[교안]_인공지능의이해_05.pdf",
-    "대학강의/2026-봄/정보보호 이해",
     "대학강의/2026-봄/인공지능 이해",
-    "대학강의/2026-봄/도커",
-    "대학강의/2025-가을/AI 딥러닝 기초/3강. 회귀 분석.md",
-    "사.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/7강. 다중 분류 문제.md",
-    "대학강의/2025-봄/데이터과학과 AI를 위한 수학과 파이썬/2강. 함수.md",
-    "cs/algorithm/BST.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/9강. AI 딥러닝 모델 성능 검증.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/8강. 다중 분류 및 심층 신경망.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/5강. 심층 신경망.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/6강.  딥러닝 모델 설계 및 구현.md",
-    "대학강의/2025-가을/AI 딥러닝 기초/12. 합성곱 신경망(CNN).md",
-    "대학강의/2025-가을/운영체제/11. 보조 기억 장치와 디스크 스케줄링.md",
-    "k겹.md",
-    "대학강의/2025-가을/클라우드 서비스 활용/1 ~ 6강 마이크로서비스 아키텍처(MSA)와 이벤트 기반 설계.md",
-    "conflict-files-obsidian-git.md",
-    "대학강의/2025-가을/운영체제/3강. 컴퓨터 시스템 구조.md",
-    "대학강의/2025-가을/운영체제/13.  파일 시스템, 병렬, 다중 및 분산 처리.md",
-    "대학강의/2025-가을/운영체제/7강. CPU 스케줄링.md",
-    "대학강의/2025-가을/운영체제/10강. 주기억장치.md",
-    "대학강의/2025-가을/운영체제/8강. 프로세스 동기화.md",
+    "대학강의/2026-봄",
+    "Untitled.base",
     "대학강의/2025-가을/운영체제/9강. 교착상태.md",
-    "대학강의/2025-가을/운영체제/4강. 운영체제 구조.md",
+    "대학강의/2025-가을/운영체제/8강. 프로세스 동기화.md",
+    "대학강의/2025-가을/운영체제/12. 가상메모리.md",
+    "대학강의/2025-가을/운영체제/11. 보조 기억 장치와 디스크 스케줄링.md",
+    "대학강의/2025-가을/AI 딥러닝 기초/7강. 다중 분류 문제.md",
+    "cs/SWAP 공간.md",
+    "cs/세그멘테이션, 페이징, 혼용 기법.md",
+    "대학강의/2025-가을/AI 딥러닝 기초/6강.  딥러닝 모델 설계 및 구현.md",
+    "대학강의/2025-가을/AI 딥러닝 기초/5강. 심층 신경망.md",
+    "ai/역전파 알고리즘; 오차함수(E)를 가중치 Wjk에 대해 미분하기.md",
+    "ai/선형회귀 독립변수와 종속변수의 관계.md",
+    "ai/시그모이드 함수 미분 과정.md",
+    "대학강의/2025-가을/컴퓨터 네트워크 기초/6강.md",
+    "대학강의/2025-가을/컴퓨터 네트워크 기초/5강.md",
+    "대학강의/2025-가을/컴퓨터 네트워크 기초/4강.md",
+    "대학강의/2025-가을/컴퓨터 네트워크 기초/3강.md",
+    "대학강의/2025-가을/컴퓨터 네트워크 기초/2강.md",
+    "대학강의/2025-가을/AI 딥러닝 기초/12. 합성곱 신경망(CNN).md",
+    "cs/동기화, 경쟁 조건, 임계 영역(synchronization, race condition, critical section).md",
+    "cs/데드락.md",
+    "대학강의/2025-가을/운영체제/5강. 프로세스 관리.md",
     "이미지/Pasted image 20251118013749.png",
+    "대학강의/2025-봄/데이터과학과 AI를 위한 수학과 파이썬",
     "이미지/Untitled 2.png",
+    "프로그래밍",
     "이미지/Untitled.png",
+    "대학강의/2025-가을/클라우드 서비스 활용",
     "이미지/Pasted image 20250507024423.png",
     "이미지/Pasted image 20250507024055.png",
     "이미지/Pasted image 20250507023449.png",
     "이미지/Pasted image 20250507023157.png",
     "이미지/Pasted image 20250507022320.png",
     "이미지/Pasted image 20250429020609.png",
-    "이미지/Pasted image 20250429020545.png"
+    "이미지/Pasted image 20250429020545.png",
+    "이미지",
+    "리눅스",
+    "대학강의/2025-봄/유닉스및 리눅스시스템",
+    "대학강의/2025-봄/데이터베이스 구축"
   ]
 }
